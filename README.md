@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-👨‍💻 Full Stack web Developer<br>⚡ MEAN Stack Developer <br>💼 MERN Stack Developer<br>🌎 https://imharsh.web.app/ <br>
+👨‍💻 Full Stack web Developer<br>⚡ MEAN Stack Developer  <br>💼 MERN Stack Developer<br>🌎 https://imharsh.web.app/ <br>
 
 
 ## 🌐 Socials:
