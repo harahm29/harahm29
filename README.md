@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh
-- 👀 I am a Full Stack web Developer with five + years of full-time experience ...
-- 🌱 I have an education in IT Engineering and expertise in multiple languages ...
-- 💞️ I have a solid knowledge of Nodejs, JavaScript ,JS frameworks like Angular, React...
+- 👀 I am a Senior Full Stack Web Developer with over six years of industry experience in developing web applications and products for various clients and industries...
+- 🌱 I have a Bachelor of Engineering degree in Information Technology and a Diploma of Education in Information Technology and expertise in multiple languages ...
+- 💞️ I have a solid knowledge of NodeJS, ExpressJS,NextJS, JavaScript ,JS frameworks like NextJS, React...
 - 📫 How to reach me harshmakavana04@gmail.com ...
 
 <!---
@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-👨‍💻 Full Stack web Developer<br>⚡ MEAN Stack Developer  <br>💼 MERN Stack Developer<br>🌎 https://imharsh.web.app/ <br>
+👨‍💻 Full Stack web Developer<br>⚡ Nodejs Developer  <br>💼 MERN Stack Developer<br>🌎 https://imharsh.web.app/ <br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshm29) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshm29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_mkvn_a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lightspeedcoder) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJS]([https://img.shields.io/badge/Nextjs-DD0031?style=for-the-badge&logo=nextjs&logoColor=white](https://img.shields.io/badge/ExpressJS-DD0031?style=for-the-badge&logo=expressjs&logoColor=white)) ![NextJS](https://img.shields.io/badge/Nextjs-DD0031?style=for-the-badge&logo=nextjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
